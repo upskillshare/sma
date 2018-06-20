@@ -1,0 +1,11 @@
++-- README.md          <- The README for this project.
+|-- FolderStructure.txt<- File to maintain folder structure
+|-- Important URL's    <- Important URL's Can be placed here
++-- data
+¦   +-- interim        <- Intermediate data that has been transformed.
+¦   +-- processed      <- The final data sets for modeling.
+¦   +-- raw            <- The original data dump.
+¦
++-- docs               <- Important Document's can be placed here
+¦
++-- notebooks          <- Jupyter notebooks (we need to think about naming conevention)
