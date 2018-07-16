@@ -12,3 +12,5 @@ prices = get_price_list(dt=date(2015,1,1))
 csv_out = 'C:\Swapnil\Git\StockAnalysis\sma\data\\raw'
 
 prices.to_csv(csv_out+'\\da.csv')
+
+new
